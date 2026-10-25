@@ -1,0 +1,195 @@
+nohup: ignoring input
+=== [07:29:10] START results_1_main: python -u src/run.py
+GME: 14688 labelled posts
+  direction/grouped
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+  direction/chrono
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+  volatility/grouped
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+  volatility/chrono
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+AMC: 5336 labelled posts
+  direction/grouped
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+  direction/chrono
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+  volatility/grouped
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+  volatility/chrono
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+TSLA: 1238 labelled posts
+  direction/grouped
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/kaushik/Documents/ML_Mini_Project/ML_Mini_project/.venv/lib64/python3.14/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  warnings.warn(
+bash terminated by signal HUP.

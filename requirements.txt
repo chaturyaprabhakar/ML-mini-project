@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+vaderSentiment
+yfinance
+kagglehub
+reportlab
+python-pptx

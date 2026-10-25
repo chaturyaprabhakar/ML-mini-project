@@ -1,0 +1,17 @@
+task,direction,direction
+split,chrono,grouped
+model,,
+BestByCV [HistGradBoost],,0.5
+BestByCV [RandomForest],0.667,
+HistGradBoost,0.583,0.5
+HistGradBoost (paper feats),0.5,0.525
+KNN,0.667,0.662
+LogReg-Newton (paper),0.667,0.775
+LogReg-Newton (tuned L2),0.667,0.688
+Majority baseline,0.667,0.775
+NN 3x256 (ext feats),0.472,0.488
+NN 3x256 (paper),0.681,0.556
+Random baseline,0.444,0.438
+RandomForest,0.667,0.488
+RandomForest (paper feats),0.583,0.575
+SVM-RBF,0.667,0.512

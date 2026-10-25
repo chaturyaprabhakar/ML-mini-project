@@ -1,0 +1,11 @@
+# Large data files (auto-downloaded by src/run.py / src/download_data.py)
+data/reddit_wsb.csv
+data/posts_processed.pkl
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Fresh run output (keep results_v1/, results_v2/, run_all.log if you want those committed)
+results/

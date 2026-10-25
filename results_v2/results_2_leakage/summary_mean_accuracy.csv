@@ -1,0 +1,22 @@
+task,direction,direction,direction,volatility,volatility,volatility
+split,chrono,grouped,random,chrono,grouped,random
+model,,,,,,
+BestByCV [Ensemble (LR+RF+HGB)],0.395,,,,,0.887
+BestByCV [ExtraTrees],0.359,,,0.0,,
+BestByCV [HistGradBoost],0.306,0.512,0.976,0.59,0.524,0.846
+BestByCV [KNN],0.538,,0.654,,,
+BestByCV [LogReg-Newton (tuned L2)],,0.36,0.82,,0.549,0.864
+Ensemble (LR+RF+HGB),0.541,0.548,0.889,0.741,0.833,0.922
+ExtraTrees,0.49,0.587,0.883,0.478,0.799,0.919
+HistGradBoost,0.497,0.535,0.876,0.692,0.747,0.918
+HistGradBoost (paper feats),0.513,0.426,0.664,0.561,0.491,0.647
+KNN,0.497,0.456,0.753,0.705,0.666,0.701
+LogReg-Newton (paper),0.516,0.563,0.658,0.673,0.723,0.614
+LogReg-Newton (tuned L2),0.56,0.513,0.693,0.517,0.608,0.76
+Majority baseline,0.542,0.589,0.652,0.772,0.837,0.65
+NN 3x256 (ext feats),0.522,0.482,0.813,0.701,0.688,0.815
+NN 3x256 (paper),0.462,0.453,0.647,0.61,0.61,0.613
+Random baseline,0.429,0.484,0.482,0.54,0.41,0.506
+RandomForest,0.496,0.58,0.878,0.767,0.819,0.913
+RandomForest (paper feats),0.501,0.455,0.67,0.574,0.571,0.653
+SVM-RBF,0.49,0.442,0.757,0.522,0.76,0.772
