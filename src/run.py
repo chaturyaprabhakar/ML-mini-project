@@ -34,6 +34,13 @@ def run_one(df, stock, task, split, a, rows, hist):
     rng = np.random.RandomState(0)
     cv = P.make_cv(df["day"].iloc[fit_idx], split)        # day-based, leakage-free tuning folds
     tag = dict(stock=stock, task=task, split=split, n_train=len(fit_idx), n_test=len(te))
+    if len(np.unique(yt)) < 2:
+        print(f"  WARNING: {stock}/{task}/{split} test fold is single-class "
+              f"(n_test={len(te)}) -- accuracy here is not meaningful, skipping")
+        rows.append({**tag, "model": "DEGENERATE: single-class test fold",
+                     "family": "flag", "acc": np.nan, "ci_lo": np.nan, "ci_hi": np.nan,
+                     "bal_acc": np.nan, "f1": np.nan, "auc": np.nan, "cv_auc": np.nan})
+        return
 
     def add(name, m, family, cvs=np.nan):
         rows.append({**tag, "model": name, "family": family, "cv_auc": cvs, **metrics(m, Xt, yt, rng)})
